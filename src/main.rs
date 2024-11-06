@@ -46,3 +46,5 @@ fn main() {
         println!("{}", y)
     }  
 }
+
+// checking if git commit works
